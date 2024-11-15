@@ -7,6 +7,11 @@ const files = [
   "http://localhost:3000/registro2.html",
   "http://localhost:3000/index.html",
   "./images/eart.webp",
+  'https://reqres.in/api/users',
+  'https://unpkg.com/sweetalert/dist/sweetalert.min.js',
+  '/css/style.css',
+  '/js/app.js',
+  './manifest.json',
 ];
 
 self.addEventListener("install", (event) => {

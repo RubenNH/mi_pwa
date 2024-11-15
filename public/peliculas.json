@@ -1,0 +1,24 @@
+{
+    "action_anime_movies": [
+        {
+            "title": "Akira",
+            "release_year": 1988,
+            "description": "In a dystopian future, a biker gang member gains psychic powers that threaten the stability of the city, leading to a violent clash between the government, military, and the gangs."
+        },
+        {
+            "title": "Ghost in the Shell",
+            "release_year": 1995,
+            "description": "Set in a futuristic world where cybernetic enhancements are common, a cyborg cop must hunt down a mysterious hacker known as the Puppet Master, raising questions about the nature of consciousness and humanity."
+        },
+        {
+            "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
+            "release_year": 2004,
+            "description": "Naruto and his friends are sent on a mission to protect an actress from a dangerous group trying to exploit her talents, leading to a series of action-packed confrontations."
+        },
+        {
+            "title": "Attack on Titan: The Roar of Awakening",
+            "release_year": 2018,
+            "description": "Eren Yeager and his allies fight for survival against the Titans in an action-filled battle, as the true nature of the Titans begins to unravel and the stakes reach new heights."
+        }
+    ]
+}
